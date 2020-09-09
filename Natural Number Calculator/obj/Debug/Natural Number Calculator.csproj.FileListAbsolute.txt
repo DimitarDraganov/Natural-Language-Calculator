@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\bin\Debug\Natural Number Calculator.exe.config
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\bin\Debug\Natural Number Calculator.exe
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\bin\Debug\Natural Number Calculator.pdb
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.exe
+C:\Users\PC\source\repos\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.pdb
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\bin\Debug\Natural Number Calculator.exe.config
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\bin\Debug\Natural Number Calculator.exe
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\bin\Debug\Natural Number Calculator.pdb
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.csprojAssemblyReference.cache
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.csproj.CoreCompileInputs.cache
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.exe
+G:\Uni\Year 5 S1 (not yet)\Natural Number Calculator\Natural Number Calculator\obj\Debug\Natural Number Calculator.pdb
